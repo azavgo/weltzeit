@@ -22,7 +22,7 @@
     [dependencies]
     weltzeit = {git = "https://github.com/azavgo/weltzeit", branch = "main"}
 ```
-2. This example demonstrates how to find a time difference between Sydney and Auckland:   
+2. This example demonstrates how to find time difference between Sydney and Auckland:   
 ```Rust
 use weltzeit::*;
 fn main() {
